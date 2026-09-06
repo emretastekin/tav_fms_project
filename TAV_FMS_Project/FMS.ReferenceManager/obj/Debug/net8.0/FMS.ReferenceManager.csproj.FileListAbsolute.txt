@@ -1,0 +1,294 @@
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/appsettings.Development.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/appsettings.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.deps.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.runtimeconfig.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.pdb
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Humanizer.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/MySqlConnector.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/StackExchange.Redis.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.csproj.AssemblyReference.cache
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.AssemblyInfoInputs.cache
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.AssemblyInfo.cs
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.csproj.CoreCompileInputs.cache
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.MvcApplicationPartsAssemblyInfo.cs
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.FMS.ReferenceManager.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.build.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/scopedcss/bundle/FMS.ReferenceManager.styles.css
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.Refe.EC04E615.Up2Date
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/refint/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.pdb
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.genruntimeconfig.cache
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/ref/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Confluent.Kafka.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-arm64/native/alpine-librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-arm64/native/librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-s390x/native/librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/centos8-librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/librdkafka.so
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/osx-arm64/native/librdkafka.dylib
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/osx-x64/native/librdkafka.dylib
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libcrypto-3-x64.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libcurl.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/librdkafka.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/librdkafkacpp.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libssl-3-x64.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/msvcp140.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/z.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/zstd.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libcrypto-3.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libcurl.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/librdkafka.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/librdkafkacpp.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libssl-3.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/msvcp140.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/vcruntime140.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/z.dll
+/Users/emretastekin/Desktop/TAV Teknoloji Staj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/zstd.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/appsettings.Development.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/appsettings.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.deps.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.runtimeconfig.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.ReferenceManager.pdb
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Confluent.Kafka.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Humanizer.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/MySqlConnector.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/StackExchange.Redis.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-arm64/native/alpine-librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-arm64/native/librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-s390x/native/librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/centos8-librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/linux-x64/native/librdkafka.so
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/osx-arm64/native/librdkafka.dylib
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/osx-x64/native/librdkafka.dylib
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libcrypto-3-x64.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libcurl.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/librdkafka.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/librdkafkacpp.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/libssl-3-x64.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/msvcp140.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/z.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x64/native/zstd.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libcrypto-3.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libcurl.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/librdkafka.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/librdkafkacpp.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/libssl-3.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/msvcp140.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/vcruntime140.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/z.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/runtimes/win-x86/native/zstd.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.csproj.AssemblyReference.cache
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.AssemblyInfoInputs.cache
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.AssemblyInfo.cs
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.csproj.CoreCompileInputs.cache
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.MvcApplicationPartsAssemblyInfo.cs
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.FMS.ReferenceManager.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.build.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FMS.ReferenceManager.props
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/scopedcss/bundle/FMS.ReferenceManager.styles.css
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.Refe.EC04E615.Up2Date
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/refint/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.pdb
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/FMS.ReferenceManager.genruntimeconfig.cache
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/obj/Debug/net8.0/ref/FMS.ReferenceManager.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Npgsql.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.Security.dll
+/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.ReferenceManager/bin/Debug/net8.0/FMS.Security.pdb

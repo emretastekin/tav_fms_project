@@ -1,0 +1,6 @@
+@FMS.FlightManager_HostAddress = http://localhost:5204
+
+GET {{FMS.FlightManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

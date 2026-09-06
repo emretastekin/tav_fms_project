@@ -1,0 +1,6 @@
+@FMS.ReferenceManager_HostAddress = http://localhost:5183
+
+GET {{FMS.ReferenceManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
