@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.FlightManager/FMS.FlightManager.csproj": {}
+  },
+  "projects": {
+    "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.FlightManager/FMS.FlightManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.FlightManager/FMS.FlightManager.csproj",
+        "projectName": "FMS.FlightManager",
+        "projectPath": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.FlightManager/FMS.FlightManager.csproj",
+        "packagesPath": "/Users/emretastekin/.nuget/packages/",
+        "outputPath": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.FlightManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emretastekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/FMS.Security.csproj": {
+                "projectPath": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/FMS.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.14.2, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/FMS.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/FMS.Security.csproj",
+        "projectName": "FMS.Security",
+        "projectPath": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/FMS.Security.csproj",
+        "packagesPath": "/Users/emretastekin/.nuget/packages/",
+        "outputPath": "/Users/emretastekin/Desktop/TAVTeknolojiStaj/TAV_FMS_Project/FMS.Security/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emretastekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

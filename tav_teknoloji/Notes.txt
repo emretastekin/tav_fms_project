@@ -1,0 +1,81 @@
+Web Site:
+
+--> treva.co
+
+
+Mikroservice, Redis, Kafka, Socket Programlama
+
+--> Bu konularını araştır.
+
+
+
+
+
+============================================================================
+
+
+
+
+
+1 Temmuz 2026
+
+-->
+https://esb-wayfinding.tavitlab.com/data/ESB/map/KAT2-ESB-DEP-DOM.png
+
+Resim alındı.
+
+
+Json eklemeyle yerleşim tamamlansın.
+
+Noktadan noktaya yol çizimi ilk aşamada yapılsın.
+
+İki ayrık halde(web sayfaları gibi) editör kısmı bir de kullanım arayüzü olucak.
+
+
+https://inmapper.com/istanbul-airport/?id=IDFT184&toTitle=%C3%87ay%20Saati%20(Next%20to%20Adidas)
+
+
+
+https://antigravity.google/ 
+
+--> proje için kullan.
+
+
+
+
+============================================================================
+
+
+
+
+
+
+10 Temmuz 2026
+
+
+
+Ana menüde imageları kullanalım. İçerik kısmındaki görselleride ikon olarak kullanalım.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
