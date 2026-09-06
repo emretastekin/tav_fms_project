@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/FMS.ReferenceManager.props" />
-</Project>

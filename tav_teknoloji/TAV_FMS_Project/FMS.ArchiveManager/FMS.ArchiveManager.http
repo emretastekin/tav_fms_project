@@ -1,6 +1,0 @@
-@FMS.ArchiveManager_HostAddress = http://localhost:5221
-
-GET {{FMS.ArchiveManager_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

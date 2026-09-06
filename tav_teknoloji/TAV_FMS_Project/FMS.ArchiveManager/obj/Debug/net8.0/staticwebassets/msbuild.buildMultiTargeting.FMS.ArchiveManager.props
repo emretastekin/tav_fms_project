@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/FMS.ArchiveManager.props" />
-</Project>
